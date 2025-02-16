@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hello 👋
 
-<!--
-**connor122721/connor122721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am a bioinformatics enthusiast with a passion for NGS analyses, non-model genomics, and medical genomics.
 
-Here are some ideas to get you started:
+### 🧬 About Me
+- 🔭 I’m currently working on various projects related to genomics and bioinformatics.
+- 🌱 I’m currently learning Nextflow and excited to dive deeper into bioinformatics and biostatistics.
+- 👯 I’m looking to collaborate on exciting bioinformatics projects.
+- 💬 Ask me about anything related to genomics and bioinformatics.
+- 📫 How to reach me: csm6hg@virginia.edu
+- ⚡ Fun fact: I love to visualize data and create informative bioinformatics pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- **NGS Analyses:** Expertise in analyzing next-generation sequencing data.
+- **Non-Model Genomics:** Skilled in handling and interpreting genomic data from non-model organisms.
+- **Medical Genomics:** Experienced in analyzing genomic data for medical research.
+
+### 🌟 Highlighted Projects
+- [Ancient balanced polymorphisms](https://github.com/connor122721/SharedPolymorphismsDaphnia): Trans-specific polymorphisms in cryptic species complex.
+- [Heart Failure eQTLs](https://github.com/connor122721/nextflow_dna): NextFlow pipeline to map disease eQTLs.
+- [Gene Family Evolution](https://github.com/connor122721/GeneFamilyEvolution): NextFlow pipeline to study evolving gene families.
+
+### 🚀 Languages and Tools
+- **Languages:** R, Python, Bash
+- **Tools:** Nextflow, Tidyverse
+
+### 📊 GitHub Stats
+[![Connor's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=connor122721&hide=javascript,html&layout=donut)](https://github.com/connor122721/README.md)
+
+### 🌐 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/connor-sean-murray/)
+
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
