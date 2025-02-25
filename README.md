@@ -2,12 +2,11 @@
 Welcome to my GitHub profile! I am a bioinformatics enthusiast with a passion for NGS analyses, non-model genomics, and medical genomics.
 
 ### 🧬 About Me
-- 🔭 I’m currently working on various projects related to genomics and bioinformatics in human genomes.
+- 🔭 I’m currently working on various projects related to genomics and bioinformatics in human genomes (eQTLS mostly).
 - 🌱 I’m currently learning Nextflow and excited to dive deeper into biostatistics.
-- 👯 I’m looking to collaborate on exciting bioinformatics projects, especially eQTLs and colocalization.
-- 💬 Ask me about anything related to genomics and bioinformatics.
+- 👯 I’m looking to collaborate on exciting bioinformatics projects, especially working with eQTLs and colocalization.
 - 📫 How to reach me: csm6hg@virginia.edu
-- ⚡ Fun fact: I love to visualize data and create informative bioinformatics pipelines.
+- ⚡ Fun fact: I love to mountain bike and I am training for a half marathon.
   
 ### 🛠️ Skills
 - **NGS Analyses:** Expertise in analyzing next-generation sequencing data.
@@ -24,7 +23,12 @@ Welcome to my GitHub profile! I am a bioinformatics enthusiast with a passion fo
 - **Tools:** Nextflow, Tidyverse
 
 ### 📊 GitHub Stats
-[![Connor's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=connor122721&hide=javascript,html&layout=donut&langs_count=8)](https://github.com/connor122721/README.md)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=connor122721&theme=solarized)
+![Connor's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=connor122721&hide=javascript,html&layout=donut&langs_count=6&theme=solarized-light)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=connor122721&theme=solarized&langs_count=5)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=connor122721&theme=solarized&langs_count=5)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=connor122721&theme=solarized&)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=connor122721&theme=solarized&utcOffset=-5)
 
 ### 🌐 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/connor-sean-murray/)
