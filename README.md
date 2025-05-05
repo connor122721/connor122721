@@ -1,12 +1,10 @@
-## Hello 👋
-Welcome to my GitHub profile! I am a bioinformatics enthusiast with a passion for NGS analyses, non-model genomics, and medical genomics.
-
-### 🧬 About Me
-- 🔭 I’m currently working on various projects related to genomics and bioinformatics in human genomes (eQTLS mostly).
-- 🌱 I’m currently learning Nextflow and excited to dive deeper into biostatistics.
-- 👯 I’m looking to collaborate on exciting bioinformatics projects, especially working with eQTLs and colocalization.
-- 📫 How to reach me: csm6hg@virginia.edu
-- ⚡ Fun fact: I love to mountain bike and I am training for a half marathon.
+### 🧬 About Connor
+- I am a bioinformatics enthusiast with a passion for NGS analyses, non-model genomics, and medical genomics.
+- I’m currently working on various projects related to genomics and bioinformatics across human genomes (eQTLS mostly).
+- I’m currently learning Nextflow and excited to dive deeper into biostatistics.
+- I’m looking to collaborate on exciting bioinformatics projects, especially working with QTLs and colocalization.
+- How to reach me: csm6hg@virginia.edu
+- Fun fact: I love to mountain bike and I am training for a half marathon.
   
 ### 🛠️ Skills
 - **NGS Analyses:** Expertise in analyzing next-generation sequencing data.
@@ -15,12 +13,8 @@ Welcome to my GitHub profile! I am a bioinformatics enthusiast with a passion fo
 
 ### 🌟 Highlighted Projects
 - [Ancient balanced polymorphisms](https://github.com/connor122721/SharedPolymorphismsDaphnia): Trans-specific polymorphisms in cryptic species complex.
-- [Heart Failure eQTLs](https://github.com/connor122721/nextflow_dna): NextFlow pipeline to map disease eQTLs.
+- [Heart Failure eQTLs](https://github.com/connor122721/nextflow_dna): NextFlow pipeline to prioritize disease eQTLs.
 - [Gene Family Evolution](https://github.com/connor122721/GeneFamilyEvolution): NextFlow pipeline to study evolving gene families.
-
-### 🚀 Languages and Tools
-- **Languages:** R, Python, Bash
-- **Tools:** Nextflow, Tidyverse
 
 ### 📊 GitHub Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=connor122721&theme=solarized)
