@@ -1,5 +1,5 @@
 ### About Me
-- I am a bioinformatics enthusiast for a passion for NGS analyses, non-model genomics, and medical genomics.
+- I am a bioinformatics enthusiast with a passion for NGS analyses, non-model genomics, and medical genomics.
 - I’m currently working on various projects related to genomics and bioinformatics across human genomes (QTLS mostly).
 - I’m currently learning Nextflow and excited to dive deeper into biostatistics.
 - I’m looking to collaborate on exciting bioinformatics projects, especially working with QTLs and colocalization.
