@@ -1,8 +1,12 @@
-![Bioinformatics](https://img.shields.io/badge/Bioinformatics-💻-blue)
-![Genomics](https://img.shields.io/badge/Genomics-DNA-green)
-![Nextflow](https://img.shields.io/badge/Workflow-Nextflow-orange)
-![R](https://img.shields.io/badge/Code-R-blue)
-![Python](https://img.shields.io/badge/Code-Python-yellow)
+<p align="center">
+  <img src="https://github.com/connor122721/working_hf/blob/main/assets/blue-ridge-1920x1080-10946.jpg" alt="Blue Ridge Mountains" width="60%" />
+</p>
+
+<h1 align="center">Hello, I'm Connor! </h1>
+<p align="center">
+  🧬 Bioinformatics | 🏔️ Genomics | ⚡ Nextflow Enthusiast
+</p>
+
 ### About Me
 - I am a bioinformatics enthusiast with a passion for NGS analyses, non-model genomics, and medical genomics.
 - I’m currently working on various projects related to genomics and bioinformatics across human genomes (e/sQTLs mostly).
