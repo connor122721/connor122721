@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/connor122721/working_hf/blob/main/assets/blue-ridge-1920x1080-10946.jpg" alt="Blue Ridge Mountains" width="50%" />
+  <img src="https://github.com/connor122721/connor122721/blob/main/blue-ridge-1920x1080-10946.jpg" alt="Blue Ridge Mountains" width="50%" />
 </p>
 
 <h1 align="center">Hello, I'm Connor! </h1>
