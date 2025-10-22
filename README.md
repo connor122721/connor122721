@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/connor122721/connor122721/blob/main/blue-ridge-1920x1080-10946.jpg" alt="Blue Ridge Mountains" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
+  <img src="https://github.com/connor122721/connor122721/blob/main/blue-ridge-1920x1080-10946.jpg" alt="Blue Ridge Mountains" width="50%" style="border-radius: 10px; margin-bottom: 20px;" />
 </div>
 
 <h1 align="center">
@@ -25,8 +25,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎯 About Me
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 - 🧬 Bioinformatics researcher passionate about **NGS analyses**, **non-model genomics**, and **medical genomics**
 - 🔬 Currently working on **eQTL mapping** and **colocalization** in human disease cohorts
@@ -195,7 +193,6 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=connor122721&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=connor122721&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
 
 </div>
@@ -266,8 +263,3 @@ Feel free to explore my repositories and reach out if you have any questions or 
 
 </div>
 
----
-
-<div align="center">
-  <i>"In the mountains of genomics, every peak reveals a new perspective."</i> 🏔️
-</div>
