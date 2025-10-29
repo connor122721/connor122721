@@ -24,7 +24,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎯 About Me
+## About Me
 
 - 🧬 Bioinformatics researcher passionate about **NGS analyses**, **non-model genomics**, and **medical genomics**
 - 🔬 Currently working on **eQTL mapping** and **colocalization** in human disease cohorts
@@ -38,21 +38,21 @@
 <details open>
 <summary><b>Click to expand</b></summary>
 
-### 🧪 Bioinformatics & Genomics
+### Bioinformatics & Genomics
 ![NGS](https://img.shields.io/badge/NGS-Variant_Calling-blue?style=flat-square)
 ![RNA-seq](https://img.shields.io/badge/RNA--seq-Analysis-blue?style=flat-square)
 ![QTL](https://img.shields.io/badge/QTL-Mapping-blue?style=flat-square)
 ![GWAS](https://img.shields.io/badge/GWAS-Integration-blue?style=flat-square)
 ![eQTL](https://img.shields.io/badge/eQTL-Analysis-blue?style=flat-square)
 
-### 💻 Programming & Tools
+### Programming & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Nextflow](https://img.shields.io/badge/Nextflow-24B064?style=flat-square&logo=nextflow&logoColor=white)
 ![Snakemake](https://img.shields.io/badge/Snakemake-4C4C4C?style=flat-square&logo=snakemake&logoColor=white)
 
-### 🖥️ Infrastructure
+### Infrastructure
 ![HPC](https://img.shields.io/badge/HPC-Slurm-orange?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -62,9 +62,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🧬 Medical & Human Genomics
+### Medical & Human Genomics
 
 <table>
   <tr>
@@ -102,7 +102,7 @@
   </tr>
 </table>
 
-### 🦠 Evolutionary & Comparative Genomics
+### Evolutionary & Comparative Genomics
 
 <table>
   <tr>
@@ -189,7 +189,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   
@@ -203,7 +203,7 @@
 
 </div>
 
-### 📈 Contribution Activity
+### Contribution Activity
 
 <div align="center">
   
@@ -225,7 +225,7 @@
 
 </div>
 
-### 🐍 Contribution Snake
+### Contribution Snake
 
 <div align="center">
   
@@ -239,7 +239,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🌟 Let's Connect!
+## Let's Connect!
 
 <div align="center">
 
