@@ -27,11 +27,11 @@
 ## About Me
 
 - 🧬 Bioinformatics researcher passionate about **NGS analyses**, **non-model genomics**, and **medical genomics**
-- 🔬 Currently working on **eQTL mapping** and **colocalization** in human disease cohorts
-- 📊 Specializing in **QTL analyses**, **variant calling**, and **RNA-seq** workflows
-- 🌱 Deepening expertise in **Nextflow** pipeline development and **biostatistics**
-- 🤝 Open to collaborations on **genomics projects**, especially QTL and GWAS studies
-- 🚵 Fun fact: I love **mountain biking** and am training for a **half marathon**!
+- Currently working on **eQTL mapping** and **colocalization** in human disease cohorts
+- Specializing in **QTL analyses**, **variant calling**, and **RNA-seq** workflows
+- Deepening expertise in **Nextflow** pipeline development and **biostatistics**
+- Open to collaborations on **genomics projects**, especially QTL and GWAS studies
+- Fun fact: I love **mountain biking** and am training for a **half marathon**!
 
 ## 🛠️ Technical Skills
 
